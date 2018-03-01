@@ -28,7 +28,7 @@
 第二步：在module的gradle里配置
 
      dependencies {
-         compile 'com.github.shajinyang:SPayUtil:1.0.0'
+         compile 'com.github.shajinyang:SPullToRefresh:v1.0.0'
      }
 
 ### 使用示例
